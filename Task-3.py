@@ -6,7 +6,7 @@ def find_max_min(arr):
 
     maximum = max(arr)
     minimum = min(arr)
-
+    print("input array is",arr)
     print(f"Maximum is: {maximum}")
     print(f"Minimum is: {minimum}")
 
